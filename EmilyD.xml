@@ -1,54 +1,45 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-       <fileDesc>
-          <titleStmt>
-             <title>Because I could not stop for Death</title>
-             <author>Emily Dickinson</author>
-          </titleStmt>
-          <publicationStmt>
-             <p>Original publication date: 1890</p>
-             <p>Published in Poems: Series 1 (posthumously)</p>
-          </publicationStmt>
-          <sourceDesc>
-             <p>Dickinson's work was never authorized to be published, so it is unknown whether "Because I could not stop for Death" was completed or "abandoned".</p>
-             <p>The poem's number according to Thomas H. Johnson's variorum edition of 1955 is "712".</p>
-          </sourceDesc>
-       </fileDesc>
-    </teiHeader>
-    <text>
-       <body>
-          <lg type="poem">
-             <l>Because I could not stop for Death –</l>
-             <l>He kindly stopped for me –</l>
-             <l>The Carriage held but just Ourselves –</l>
-             <l>And Immortality.</l>
-             <l>We slowly drove – He knew no haste</l>
-             <l>And I had put away</l>
-             <l>My labor and my leisure too,</l>
-             <l>For His Civility –</l>
-             <l>We passed the School, where Children strove</l>
-             <l>At Recess – in the Ring –</l>
-             <l>We passed the Fields of Gazing Grain –</l>
-             <l>We passed the Setting Sun –</l>
-             <l>Or rather – He passed Us –</l>
-             <l>The Dews drew quivering and Chill –</l>
-             <l>For only Gossamer, my Gown –</l>
-             <l>My Tippet – only Tulle –</l>
-             <l>We paused before a House that seemed</l>
-             <l>A Swelling of the Ground –</l>
-             <l>The Roof was scarcely visible –</l>
-             <l>The Cornice – in the Ground –</l>
-             <l>Since then – 'tis Centuries – and yet</l>
-             <l>Feels shorter than the Day</l>
-             <l>I first surmised the Horses' Heads </l>
-             <l>Were toward Eternity –</l>
-          </lg>
-       </body>
-    </text>
-    <back>
-       <div type="commentary">
-          <p>The poet's persona speaks about Death and Afterlife, the peace that comes along with it without haste. She personifies Death as a young man riding along with her in a carriage. As she goes through to the afterlife she briefs us of her past life while she was still alive.</p>
-       </div>
-    </back>
- </TEI>
- 
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Bird came down the Walk—</title>
+        <author>Emily Dickinson</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Published 1891</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Originally from "The Poems of Emily Dickinson"</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <head>A Bird came down the Walk—</head>
+        <lg>
+          <l>A Bird came down the Walk—</l>
+          <l>He did not know I saw—</l>
+          <l>He bit an <rs type="animal">Angleworm</rs> in halves</l>
+          <l>And ate the fellow, raw,</l>
+          <l>And then he drank a <rs type="nature">Dew</rs></l>
+          <l>From a convenient <rs type="nature">Grass</rs>—</l>
+          <l>And then hopped sidewise to the <rs type="place">Wall</rs></l>
+          <l>To let a <rs type="animal">Beetle</rs> pass—</l>
+          <l>He glanced with rapid eyes</l>
+          <l>That hurried all abroad—</l>
+          <l>They looked like frightened Beads, I thought—</l>
+          <l>He stirred his Velvet Head</l>
+          <l>Like one in danger, Cautious,</l>
+          <l>I offered him a <rs type="object">Crumb</rs></l>
+          <l>And he unrolled his feathers</l>
+          <l>And rowed him softer Home—</l>
+          <l>Than <rs type="object">Oars</rs> divide the <rs type="place">Ocean</rs>,</l>
+          <l>Too silver for a seam—</l>
+          <l>Or <rs type="animal">Butterflies</rs>, off Banks of Noon</l>
+          <l>Leap, plashless as they swim.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
